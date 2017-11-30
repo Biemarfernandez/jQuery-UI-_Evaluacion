@@ -1,0 +1,73 @@
+body { background-color: #EAECEE;}
+
+#elementoObjetivo { background-color: #050505; width: 720px; height: 641px; left: 100px; top: 80px; }
+
+#miDiv1 { position: absolute; top: 12.5%; left: 23.3%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv2 { position: absolute; top: 12.5%; left: 35.2%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv3 { position: absolute; top: 12.5%; left: 47.1%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv4 { position: absolute; top: 12.5%; left: 58.9%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv5 { position: absolute; top: 12.5%; left: 70.8%;  width: 80px; height: 80px; background: #FDFEFE; }
+
+#miDiv6 { position: absolute; top: 25.1%; left: 29.2%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv7 { position: absolute; top: 25.1%; left: 41.11%; width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv8 { position: absolute; top: 25.1%; left: 53%;    width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv9 { position: absolute; top: 25.1%; left: 64.88%; width: 80px; height: 80px; background: #FDFEFE; }
+
+#miDiv10 { position: absolute; top: 37.6%; left: 23.3%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv11 { position: absolute; top: 37.6%; left: 35.2%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv12 { position: absolute; top: 37.6%; left: 47.1%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv13 { position: absolute; top: 37.6%; left: 58.9%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv14 { position: absolute; top: 37.6%; left: 70.8%;  width: 80px; height: 80px; background: #FDFEFE; }
+
+#miDiv15 { position: absolute; top: 50.1%; left: 29.2%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv16 { position: absolute; top: 50.1%; left: 41.11%; width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv17 { position: absolute; top: 50.1%; left: 53%;    width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv18 { position: absolute; top: 50.1%; left: 64.88%; width: 80px; height: 80px; background: #FDFEFE; }
+
+#miDiv19 { position: absolute; top: 62.7%; left: 23.3%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv20 { position: absolute; top: 62.7%; left: 35.2%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv21 { position: absolute; top: 62.7%; left: 47.1%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv22 { position: absolute; top: 62.7%; left: 58.9%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv23 { position: absolute; top: 62.7%; left: 70.8%;  width: 80px; height: 80px; background: #FDFEFE; }
+
+#miDiv24 { position: absolute; top: 75.3%;  left: 29.2%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv25 { position: absolute; top: 75.3%;  left: 41.11%; width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv26 { position: absolute; top: 75.3%;  left: 53%;    width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv27 { position: absolute; top: 75.3%;  left: 64.88%; width: 80px; height: 80px; background: #FDFEFE; }
+
+#miDiv28 { position: absolute; top: 87.8%; left: 23.3%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv29 { position: absolute; top: 87.8%; left: 35.2%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv30 { position: absolute; top: 87.8%; left: 47.1%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv31 { position: absolute; top: 87.8%; left: 58.9%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv32 { position: absolute; top: 87.8%; left: 70.8%;  width: 80px; height: 80px; background: #FDFEFE; }
+
+#miDiv33 { position: absolute; top: 100.3%;  left: 29.2%;  width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv34 { position: absolute; top: 100.3%;  left: 41.11%; width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv35 { position: absolute; top: 100.3%;  left: 53%;    width: 80px; height: 80px; background: #FDFEFE; }
+#miDiv36 { position: absolute; top: 100.3%;  left: 64.88%; width: 80px; height: 80px; background: #FDFEFE; }
+
+
+#fichas1 { position: absolute; top: 10.6%; left: 23.55%; width: 70px; height: 70px; background: #F90C05; border-radius: 50px; border: 2px solid #943126; }
+#fichas2 { position: absolute; top: 10.6%; left: 35.4%;  width: 70px; height: 70px; background: #F90C05; border-radius: 50px; border: 2px solid #943126; }
+#fichas3 { position: absolute; top: 10.6%; left: 59.19%; width: 70px; height: 70px; background: #072CD2; border-radius: 50px; border: 2px solid #1B4F72; }
+#fichas4 { position: absolute; top: 10.6%; left: 71%;    width: 70px; height: 70px; background: #072CD2; border-radius: 50px; border: 2px solid #1B4F72; }
+#fichas5 { position: absolute; top: 23%;   left: 29.4%;  width: 70px; height: 70px; background: #F90C05; border-radius: 50px; border: 2px solid #943126; }
+#fichas6 { position: absolute; top: 23%;   left: 65.1%;  width: 70px; height: 70px; background: #072CD2; border-radius: 50px; border: 2px solid #1B4F72; }
+#fichas7 { position: absolute; top: 35.8%; left: 23.55%; width: 70px; height: 70px; background: #F90C05; border-radius: 50px; border: 2px solid #943126; }
+#fichas8 { position: absolute; top: 35.8%; left: 35.4%;  width: 70px; height: 70px; background: #F90C05; border-radius: 50px; border: 2px solid #943126; }
+#fichas9 { position: absolute; top: 35.8%; left: 59.19%; width: 70px; height: 70px; background: #072CD2; border-radius: 50px; border: 2px solid #1B4F72; }
+#fichas10 { position: absolute; top:35.8%; left: 71%;    width: 70px; height: 70px; background: #072CD2; border-radius: 50px; border: 2px solid #1B4F72; }
+#fichas11 { position: absolute; top: 48.2%; left: 29.4%;  width: 70px; height: 70px; background: #F90C05; border-radius: 50px; border: 2px solid #943126; }
+#fichas12 { position: absolute; top: 48.2%; left: 65.1%;  width: 70px; height: 70px; background: #072CD2; border-radius: 50px; border: 2px solid #1B4F72; }
+#fichas13 { position: absolute; top: 60.7%; left: 23.55%; width: 70px; height: 70px; background: #F90C05; border-radius: 50px; border: 2px solid #943126; }
+#fichas14 { position: absolute; top: 60.7%; left: 35.4%;  width: 70px; height: 70px; background: #F90C05; border-radius: 50px; border: 2px solid #943126; }
+#fichas15 { position: absolute; top: 60.7%; left: 59.19%; width: 70px; height: 70px; background: #072CD2; border-radius: 50px; border: 2px solid #1B4F72; }
+#fichas16 { position: absolute; top: 60.7%; left: 71%;    width: 70px; height: 70px; background: #072CD2; border-radius: 50px; border: 2px solid #1B4F72; }
+#fichas17 { position: absolute; top: 73.4%; left: 29.4%; width: 70px; height: 70px; background: #F90C05; border-radius: 50px; border: 2px solid #943126; }
+#fichas18 { position: absolute; top: 73.4%; left: 65.1%; width: 70px; height: 70px; background: #072CD2; border-radius: 50px; border: 2px solid #1B4F72; }
+#fichas19 { position: absolute; top: 85.7%;  left: 23.55%; width: 70px; height: 70px; background: #F90C05; border-radius: 50px; border: 2px solid #943126; }
+#fichas20 { position: absolute; top: 85.7%;  left: 35.4%;  width: 70px; height: 70px; background: #F90C05; border-radius: 50px; border: 2px solid #943126; }
+#fichas21 { position: absolute; top: 85.7%;  left: 59.19%; width: 70px; height: 70px; background: #072CD2; border-radius: 50px; border: 2px solid #1B4F72; }
+#fichas22 { position: absolute; top: 85.7%;  left: 71%;    width: 70px; height: 70px; background: #072CD2; border-radius: 50px; border: 2px solid #1B4F72; }
+#fichas23 { position: absolute; top: 98.4%; left: 29.4%;  width: 70px; height: 70px; background: #F90C05; border-radius: 50px; border: 2px solid #943126; }
+#fichas24 { position: absolute; top: 98.4%; left: 65.1%;  width: 70px; height: 70px; background: #072CD2; border-radius: 50px; border: 2px solid #1B4F72; }
